@@ -23,3 +23,4 @@ This configuration pulls the Nginx image and runs it in a container named `nginx
 1. Initialize Terraform: `terraform init`
 2. Apply the configuration: `terraform apply`
 3. Access Nginx: Open a browser and go to `http://localhost:8000`.
+4. Destroy Terraform Infrastructure: `terraform destroy`
